@@ -1,0 +1,37 @@
+.container{
+
+}
+
+.quote-card{
+    background-color: rgb(25, 21, 46);
+    color: #fff;
+    max-width: 90%;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.quote{
+    text-align: justify;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+.first{
+    color: bisque;
+    font-size: 23px;
+}
+.second{
+    color: bisque;
+    font-size: 23px;
+
+    font-style: normal;
+}
+
+.author{
+    font-size: 18px;
+    color: beige;
+    font-style: italic;
+}
